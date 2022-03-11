@@ -12,7 +12,7 @@ HTML
 
 <h2> Layout: </h2>
 
-<img align="center" alt="HTML" height="300" width="350" src="https://user-images.githubusercontent.com/100887684/157777578-46836838-19d2-48e6-8943-eac05c7a1d98.jpeg">
+<img align="center" alt="HTML" height="300" width="325" src="https://user-images.githubusercontent.com/100887684/157777578-46836838-19d2-48e6-8943-eac05c7a1d98.jpeg">
 
 
 
