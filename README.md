@@ -1,4 +1,4 @@
-# Pokedéx-HTML
+# Pokedéx-HTML-CSS
 
 <h2> Descrição: </h2>
 
