@@ -47,4 +47,8 @@
     .listagem .pokemon span {
         padding-right: 5px;
     }
+
+    .aberto img {
+        animation: none;
+    }
 }
