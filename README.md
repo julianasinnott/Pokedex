@@ -8,6 +8,8 @@ Projeto Pokedéx desenvoldido durante a semana de Imersão MapaDevWeek em março
 - Estilização com CSS puro, design desktop e mobile responsivo
 - Funcionalidades com JavaScript
 
+Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/Pokedex/). Este site foi construído usando [GitHub Pages](https://pages.github.com/).
+
 <h2> Linguagens utilizadas: </h2>
 
 <table>
@@ -31,4 +33,7 @@ Projeto Pokedéx desenvoldido durante a semana de Imersão MapaDevWeek em março
 - Layout Mobile
 <img align="center" alt="Desktop" height="350" width="150" src="https://user-images.githubusercontent.com/100887684/158921542-2d307600-012a-4a5a-b8f6-391bd7b05f9c.PNG">
 
+
+Este foi meu primeiro projeto. <3
+Dev. Front-end em desenvolvimento!
 
