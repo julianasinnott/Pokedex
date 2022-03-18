@@ -11,24 +11,25 @@
     <link rel="stylesheet" href="src/css/cartao.css">
     <link rel="stylesheet" href="src/css/listagem.css">
     <link rel="stylesheet" href="src/css/responsivo.css">
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+    <link rel="shortcut icon" href="src/imagens/icone-pokebola.webp" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;800&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;800&display=swap" rel="stylesheet">
 </head>
 
 <body>
     <main>
         <div class="pokedex">
             <div class="cartoes-pokemon">
-                <div class="cartao-pokemon aberto tipo-eletrico">
+                <div class="cartao-pokemon aberto tipo-eletrico" id="cartao-pikachu">
                     <div class="cartao-topo">
                         <div class="detalhes">
                             <h2 class="nome">Pikachu</h2>
                             <span>#001</span>
                         </div>
 
-                        <span class="tipo">raio</span>
+                        <span class="tipo">elétrico</span>
 
                         <div class="cartao-imagem">
                             <img src="src/imagens/pikachu.png" alt="Imagem Pikachu">
@@ -52,17 +53,17 @@
 
                             <ul>
                                 <li>Choque do trovão</li>
-                                <li>cabeçada</li>
+                                <li>Cabeçada</li>
                             </ul>
                         </div>
                     </div>
                 </div>
 
-                <div class="cartao-pokemon">
+                <div class="cartao-pokemon tipo-grama" id="cartao-bulbasaur">
                     <div class="cartao-topo">
                         <div class="detalhes">
                             <h2 class="nome">Bulbasaur</h2>
-                            <span>#001</span>
+                            <span>#002</span>
                         </div>
 
                         <span class="tipo">grama</span>
@@ -95,11 +96,11 @@
                     </div>
                 </div>
 
-                <div class="cartao-pokemon">
+                <div class="cartao-pokemon tipo-fogo" id="cartao-charmander">
                     <div class="cartao-topo">
                         <div class="detalhes">
                             <h2 class="nome">Charmander</h2>
-                            <span>#001</span>
+                            <span>#003</span>
                         </div>
 
                         <span class="tipo">fogo</span>
@@ -132,13 +133,13 @@
                     </div>
                 </div>
 
-                <div class="cartao-pokemon">
+                <div class="cartao-pokemon tipo-agua" id="cartao-gyarados">
                     <div class="cartao-topo">
                         <div class="detalhes">
                             <h2 class="nome">Gyarados</h2>
-                            <span>#001</span>
+                            <span>#004</span>
                         </div>
-                        
+
                         <span class="tipo">água</span>
 
                         <div class="cartao-imagem">
@@ -169,13 +170,13 @@
                     </div>
                 </div>
 
-                <div class="cartao-pokemon">
+                <div class="cartao-pokemon tipo-trevas" id="cartao-gengar">
                     <div class="cartao-topo">
                         <div class="detalhes">
                             <h2 class="nome">Gengar</h2>
                             <span>#005</span>
                         </div>
-                        
+
                         <span class="tipo">trevas</span>
 
                         <div class="cartao-imagem">
@@ -206,13 +207,13 @@
                     </div>
                 </div>
 
-                <div class="cartao-pokemon">
+                <div class="cartao-pokemon tipo-dragao" id="cartao-dragonite">
                     <div class="cartao-topo">
                         <div class="detalhes">
                             <h2 class="nome">Dragonite</h2>
                             <span>#006</span>
                         </div>
-                        
+
                         <span class="tipo">dragão</span>
 
                         <div class="cartao-imagem">
@@ -246,35 +247,36 @@
 
             <nav class="listagem">
                 <ul>
-                    <li class="pokemon ativo">
+                    <li class="pokemon ativo" id="pikachu">
                         <img src="src/imagens/cabeca-pikachu.png" alt="Cabeça do Pikachu">
                         <span>Pikachu</span>
-                    </li> 
-                    <li class="pokemon">
+                    </li>
+                    <li class="pokemon" id="bulbasaur">
                         <img src="src/imagens/cabeca-bulbasaur.png" alt="Cabeça do Bulbasaur">
                         <span>Bulbasaur</span>
-                    </li> 
-                    <li class="pokemon">
+                    </li>
+                    <li class="pokemon" id="charmander">
                         <img src="src/imagens/cabeca-charmander.png" alt="Cabeça do Charmander">
                         <span>Charmander</span>
-                    </li> 
-                    <li class="pokemon">
+                    </li>
+                    <li class="pokemon" id="gyarados">
                         <img src="src/imagens/cabeca-gyarados.png" alt="Cabeça do Gyarados">
                         <span>Gyarados</span>
-                    </li> 
-                    <li class="pokemon">
+                    </li>
+                    <li class="pokemon" id="gengar">
                         <img src="src/imagens/cabeca-gengar.png" alt="Cabeça do Gengar">
                         <span>Gengar</span>
-                    </li> 
-                    <li class="pokemon">
+                    </li>
+                    <li class="pokemon" id="dragonite">
                         <img src="src/imagens/cabeca-dragonite.png" alt="Cabeça do Dragonite">
                         <span>Dragonite</span>
-                    </li>                   
+                    </li>
                 </ul>
-
             </nav>
         </div>
     </main>
+
+    <script src="src/js/index.js"></script>
 </body>
 
 </html>

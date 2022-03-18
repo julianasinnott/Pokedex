@@ -9,7 +9,7 @@
 }
 
 .cartao-pokemon .nome {
-    margin-top: 5px ;
+    margin-bottom: 5px ;
 }
 
 .cartao-pokemon .tipo {
@@ -35,6 +35,7 @@
 
 .cartao-pokemon img {
     max-height: 100%;
+    filter: drop-shadow(5px 8px 10px rgba(0, 0, 0, 0.3));
 }
 
 .cartao-pokemon .cartao-informacoes {
@@ -70,7 +71,7 @@
 }
 
 .tipo-fogo {
-    background-color: #ED8A8B;
+    background-color: #f54f4f;
 }
 
 .tipo-eletrico {
@@ -90,5 +91,19 @@
 }
 
 .tipo-dragao {
-    background-color: #C29791;
+    background-color: #f1a541;
+}
+
+.aberto img {
+    animation: slide 1s ease-out;
+}
+
+@keyframes slide {
+    from {
+        opacity: 0;
+        transform: scale(0,0);
+    }
+    to {
+        opacity: 1;
+    }
 }
