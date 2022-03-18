@@ -6,19 +6,29 @@ Projeto Pokedéx desenvoldido durante a semana de Imersão MapaDevWeek em março
 
 - Estrutura HTML
 - Estilização com CSS puro, design desktop e mobile responsivo
+- Funcionalidades com JavaScript
 
 <h2> Linguagens utilizadas: </h2>
 
-HTML e CSS
-
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<table>
+<tr>
+  <th> HTML </th>
+  <th> CSS </th>
+  <th> JS </th>
+</tr>
+<tr>
+  <td> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </td>
+  <td> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </td>
+  <td>  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" </td>
+</tr>
+</table>
 
 <h2> Layout: </h2>
 
 - Layout Desktop
-<img align="center" alt="Desktop" height="350" width="350" src="https://user-images.githubusercontent.com/100887684/158104361-2c3f09bc-27d3-4468-b8a7-90b2821faea5.png">
+<img align="center" alt="Desktop" height="350" width="350" src="https://user-images.githubusercontent.com/100887684/158921453-cc0570b8-8d90-4773-9bae-b32ae39ccfb4.PNG">
 
 - Layout Mobile
-<img align="center" alt="Desktop" height="350" width="150" src="https://user-images.githubusercontent.com/100887684/158104511-b78ee333-7c99-4ccf-818c-b61a0cf80f4f.png">
+<img align="center" alt="Desktop" height="350" width="150" src="https://user-images.githubusercontent.com/100887684/158921542-2d307600-012a-4a5a-b8f6-391bd7b05f9c.PNG">
 
 
