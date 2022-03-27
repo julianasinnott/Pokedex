@@ -2,7 +2,7 @@
 
 <h2> Descrição: </h2>
 
-Projeto Pokedéx desenvoldido durante a semana de Imersão MapaDevWeek em março de 2022.
+Projeto Pokedéx desenvolvido durante a semana de Imersão MapaDevWeek em março de 2022.
 
 - Estrutura HTML
 - Estilização com CSS puro, design desktop e mobile responsivo
