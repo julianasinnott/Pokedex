@@ -28,12 +28,12 @@ Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/Pok
 <h2> Layout: </h2>
 
 - Layout Desktop
-<img align="center" alt="Desktop" height="350" width="350" src="https://user-images.githubusercontent.com/100887684/158921453-cc0570b8-8d90-4773-9bae-b32ae39ccfb4.PNG">
+<img align="center" alt="Desktop" src="https://user-images.githubusercontent.com/100887684/158921453-cc0570b8-8d90-4773-9bae-b32ae39ccfb4.PNG">
 
 - Layout Mobile
-<img align="center" alt="Mobile" height="350" width="150" src="https://user-images.githubusercontent.com/100887684/158921542-2d307600-012a-4a5a-b8f6-391bd7b05f9c.PNG">
+<img align="center" alt="Mobile" src="https://user-images.githubusercontent.com/100887684/158921542-2d307600-012a-4a5a-b8f6-391bd7b05f9c.PNG">
 
 
-Este foi meu primeiro projeto. 💛 <br>
-Dev. Front-end❕
+💛 <br>
+Front-end Developer❕
 
